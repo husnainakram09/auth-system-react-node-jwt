@@ -1,0 +1,10 @@
+.app {
+  padding: 20px 100px;
+}
+a {
+  text-decoration: none !important;
+  margin: 0 10px;
+}
+.MuiTypography-root {
+  color: white;
+}
